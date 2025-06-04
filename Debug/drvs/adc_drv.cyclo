@@ -1,0 +1,8 @@
+../drvs/adc_drv.c:23:1:AdcDrv_init	2
+../drvs/adc_drv.c:39:1:AdcDrv_start	1
+../drvs/adc_drv.c:45:1:AdcDrv_stop	1
+../drvs/adc_drv.c:51:1:AdcDrv_get_result	1
+../drvs/adc_drv.c:60:1:AdcDrv_register	6
+../drvs/adc_drv.c:88:1:AdcDrv_hal_start	2
+../drvs/adc_drv.c:103:1:AdcDrv_hal_stop	2
+../drvs/adc_drv.c:112:6:HAL_ADC_ConvCpltCallback	2

@@ -1,0 +1,2 @@
+../utils/hysteresis_filter.c:13:1:hysteresis_init	1
+../utils/hysteresis_filter.c:21:1:hysteresis_update	3

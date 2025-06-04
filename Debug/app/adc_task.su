@@ -1,0 +1,2 @@
+../app/adc_task.c:16:1:AdcFilter_init	24	static
+../app/adc_task.c:33:5:AdcFilter_update	40	static

@@ -1,0 +1,6 @@
+../app/usb_descriptor.c:30:16:tud_descriptor_device_cb	4	static
+../app/usb_descriptor.c:43:16:tud_hid_descriptor_report_cb	16	static
+../app/usb_descriptor.c:70:16:tud_descriptor_configuration_cb	16	static
+../app/usb_descriptor.c:89:17:tud_descriptor_string_cb	24	static
+../app/usb_descriptor.c:120:10:tud_hid_get_report_cb	16	static
+../app/usb_descriptor.c:129:6:tud_hid_set_report_cb	16	static

@@ -1,0 +1,2 @@
+../utils/ema_filter.c:11:5:ema_filter_init	16	static
+../utils/ema_filter.c:18:10:ema_filter_update	24	static

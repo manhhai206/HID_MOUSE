@@ -1,0 +1,3 @@
+../utils/adc_corrector.c:20:1:adc_corrector_init	1
+../utils/adc_corrector.c:36:1:adc_corrector_update	7
+../utils/adc_corrector.c:75:1:adc_corrector_scale	2
